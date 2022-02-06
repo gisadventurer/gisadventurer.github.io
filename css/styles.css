@@ -910,7 +910,7 @@ footer span.fa-heart {
     margin: 0 2px;
 }
 body.modal-open {
-    padding-right: 0 !important;
+    padding-right: 0 px !important;
 }
 .modal-body {
     padding: 25px;
