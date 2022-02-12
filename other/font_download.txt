@@ -1,0 +1,208 @@
+<style type="text/css">
+         @font-face {font-family: "aAutoSignature";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/aAutoSignature.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/aAutoSignature.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/aAutoSignature.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/aAutoSignature.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/aAutoSignature.svg
+ @font-face {font-family: "Aghnesta Signature";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/AghnestademoSignature.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/AghnestademoSignature.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/AghnestademoSignature.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/AghnestademoSignature.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/AghnestademoSignature.svg
+ @font-face {font-family: "AmasteryScript";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/AmasteryScript.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AmasteryScript.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AmasteryScript.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AmasteryScript.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AmasteryScript.svg
+ @font-face {font-family: "Amertha";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/02/AmerthaPERSONALUSEONLY.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/02/AmerthaPERSONALUSEONLY.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/02/AmerthaPERSONALUSEONLY.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/02/AmerthaPERSONALUSEONLY.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/02/AmerthaPERSONALUSEONLY.svg
+ @font-face {font-family: "Amsterdam";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/Amsterdam.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Amsterdam.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Amsterdam.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Amsterdam.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Amsterdam.svg
+ @font-face {font-family: "Aston Font";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://hi.possiblewedding.com/wp-content/uploads/2022/01/AstonScriptBold-Bold.woff2
+https://hi.possiblewedding.com/wp-content/uploads/2022/01/AstonScriptBold-Bold.woff
+https://hi.possiblewedding.com/wp-content/uploads/2022/01/AstonScriptBold-Bold.ttf
+https://hi.possiblewedding.com/wp-content/uploads/2022/01/AstonScriptBold-Bold.eot
+https://hi.possiblewedding.com/wp-content/uploads/2022/01/AstonScriptBold-Bold.svg
+ @font-face {font-family: "Aston Script";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/AstonScriptBold-Bold.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstonScriptBold-Bold.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstonScriptBold-Bold.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstonScriptBold-Bold.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstonScriptBold-Bold.svg
+ @font-face {font-family: "AstralSisters";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/AstralSisters.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstralSisters.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstralSisters.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstralSisters.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/AstralSisters.svg
+ @font-face {font-family: "AurelAtta";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/10/AurelliaScript.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/10/AurelliaScript.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/10/AurelliaScript.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/10/AurelliaScript.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/10/AurelliaScript.svg
+ @font-face {font-family: "Authentic-Signature";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/Authentic-Signature.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Authentic-Signature.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Authentic-Signature.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Authentic-Signature.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Authentic-Signature.svg
+ @font-face {font-family: "Avenir";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/Metropolis-Light.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Metropolis-Light.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Metropolis-Light.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Metropolis-Light.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Metropolis-Light.svg
+ @font-face {font-family: "Boheme";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/BohemeFloral.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/BohemeFloral.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/BohemeFloral.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/BohemeFloral.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/BohemeFloral.svg
+ @font-face {font-family: "Bon Vivant";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/BonVivant-Regular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BonVivant-Regular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BonVivant-Regular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BonVivant-Regular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BonVivant-Regular.svg
+ @font-face {font-family: "Bookman";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/BookmanOldStyle.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BookmanOldStyle.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BookmanOldStyle.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BookmanOldStyle.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BookmanOldStyle.svg
+ @font-face {font-family: "Bookman Old";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/BookmanOldStyle.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BookmanOldStyle.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BookmanOldStyle.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BookmanOldStyle.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BookmanOldStyle.svg
+ @font-face {font-family: "BrannbollStencilPERSONALUSE";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/BrannbollStencilPERSONALUSE.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BrannbollStencilPERSONALUSE.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BrannbollStencilPERSONALUSE.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BrannbollStencilPERSONALUSE.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/BrannbollStencilPERSONALUSE.svg
+ @font-face {font-family: "Brighten Round";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/BrightenRound.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrightenRound.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrightenRound.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrightenRound.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrightenRound.svg
+ @font-face {font-family: "Brittany Signature";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/BrittanySignatureRegular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrittanySignatureRegular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrittanySignatureRegular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrittanySignatureRegular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/BrittanySignatureRegular.svg
+ @font-face {font-family: "Century Gothic";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/02/CenturyGothic.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CenturyGothic.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CenturyGothic.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CenturyGothic.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CenturyGothic.svg
+ @font-face {font-family: "Coklat";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/02/CochocibScriptLatinPro.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CochocibScriptLatinPro.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CochocibScriptLatinPro.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CochocibScriptLatinPro.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/02/CochocibScriptLatinPro.svg
+ @font-face {font-family: "CreattionDemo";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/CreattionDemo.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/CreattionDemo.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/CreattionDemo.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/CreattionDemo.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/CreattionDemo.svg
+ @font-face {font-family: "EnglishOld";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/OldEnglishFive.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/OldEnglishFive.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/OldEnglishFive.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/OldEnglishFive.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/OldEnglishFive.svg
+ @font-face {font-family: "Fine";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/FineStyle.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/FineStyle.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/FineStyle.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/FineStyle.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/FineStyle.svg
+ @font-face {font-family: "Galanda";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/Galanda-Moderna-W00-Light.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Galanda-Moderna-W00-Light.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Galanda-Moderna-W00-Light.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Galanda-Moderna-W00-Light.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Galanda-Moderna-W00-Light.svg
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Galanda-Moderna-W00-Light.otf) format('OpenType');} @font-face {font-family: "GardeniaSummer";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/GardeniaSummer.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Gardenia-Summer.ttf.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/GardeniaSummer.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Gardenia-Summer.ttf.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/Gardenia-Summer.ttf.svg
+ @font-face {font-family: "Helinda";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/02/HelindaRookStd.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/02/HelindaRookStd.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/02/HelindaRookStd.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/02/HelindaRookStd.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/02/HelindaRookStd.svg
+ @font-face {font-family: "ImperialScript-Regular";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/ImperialScript-Regular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/ImperialScript-Regular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/ImperialScript-Regular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/ImperialScript-Regular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/ImperialScript-Regular.svg
+ @font-face {font-family: "LTWave";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/LTWave.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/LTWave.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/LTWave.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/LTWave.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/LTWave.svg
+ @font-face {font-family: "Millerstone";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/MillerstoneDEMO-Regular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/MillerstoneDEMO-Regular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/MillerstoneDEMO-Regular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/MillerstoneDEMO-Regular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/MillerstoneDEMO-Regular.svg
+ @font-face {font-family: "Miracle";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/Miracle.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Miracle.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Miracle.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Miracle.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Miracle.svg
+ @font-face {font-family: "modernlinePersonalUse";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/10/modernlinePersonalUse.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/10/modernlinePersonalUse.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/10/modernlinePersonalUse.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/10/modernlinePersonalUse.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/10/modernlinePersonalUse.svg
+ @font-face {font-family: "Monotype";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/MonotypeCorsiva.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/MonotypeCorsiva.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/MonotypeCorsiva.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/MonotypeCorsiva.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/MonotypeCorsiva.svg
+ @font-face {font-family: "Photograph";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/PhotographSignature-1.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/PhotographSignature.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/PhotographSignature.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/PhotographSignature.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/PhotographSignature.svg
+ @font-face {font-family: "Recoleta";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/02/Recoleta-RegularDEMO.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/02/Recoleta-RegularDEMO.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/02/Recoleta-RegularDEMO.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/02/Recoleta-RegularDEMO.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/02/Recoleta-RegularDEMO.svg
+ @font-face {font-family: "Samantha";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/01/samantha.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/01/samantha.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/01/samantha.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/01/samantha.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/01/samantha.svg
+ @font-face {font-family: "Silvertone";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/Silvertone.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Silvertone.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Silvertone.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Silvertone.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/Silvertone.svg
+ @font-face {font-family: "StayClassy";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2022/02/StayClassySLDT.woff2
+https://us.possiblewedding.com/wp-content/uploads/2022/02/StayClassySLDT.woff
+https://us.possiblewedding.com/wp-content/uploads/2022/02/StayClassySLDT.ttf
+https://us.possiblewedding.com/wp-content/uploads/2022/02/StayClassySLDT.eot
+https://us.possiblewedding.com/wp-content/uploads/2022/02/StayClassySLDT.svg
+ @font-face {font-family: "Tiempos";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/TiemposText-Regular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/TiemposText-Regular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/TiemposText-Regular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/TiemposText-Regular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/TiemposText-Regular.svg
+ @font-face {font-family: "Vogue";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/12/Vogue-Regular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Vogue-Regular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Vogue-Regular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Vogue-Regular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/12/Vogue-Regular.svg
+ @font-face {font-family: "vultures";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/TakenbyVulturesDemo.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/TakenbyVulturesDemo.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/TakenbyVulturesDemo.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/TakenbyVulturesDemo.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/TakenbyVulturesDemo.svg
+ @font-face {font-family: "WildbreakDEMO-Regular";font-display: auto;font-fallback: ;font-weight: 100;src: url(https://us.possiblewedding.com/wp-content/uploads/2021/11/WildbreakDEMO-Regular.woff2
+https://us.possiblewedding.com/wp-content/uploads/2021/11/WildbreakDEMO-Regular.woff
+https://us.possiblewedding.com/wp-content/uploads/2021/11/WildbreakDEMO-Regular.ttf
+https://us.possiblewedding.com/wp-content/uploads/2021/11/WildbreakDEMO-Regular.eot
+https://us.possiblewedding.com/wp-content/uploads/2021/11/WildbreakDEMO-Regular.svg
+				
+      </style>
