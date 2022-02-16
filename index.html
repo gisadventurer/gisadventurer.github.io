@@ -504,7 +504,7 @@
                               </div>
                            </div>
                         </div>
-                        <div class="elementor-element elementor-element-645bc7c8 elementor-align-center elementor-widget elementor-widget-button" data-id="645bc7c8" data-element_type="widget" data-widget_type="button.default">
+                        <!--<div class="elementor-element elementor-element-645bc7c8 elementor-align-center elementor-widget elementor-widget-button" data-id="645bc7c8" data-element_type="widget" data-widget_type="button.default">
                            <div class="elementor-widget-container">
                               <div class="elementor-button-wrapper">
                                  <a class="elementor-button elementor-size-sm" role="button" href="https://bit.ly/farhah-mastaka" target="_blank">
@@ -516,7 +516,7 @@
                                  </a>
                               </div>
                            </div>
-                        </div>
+                        </div>-->
                         <div class="elementor-element elementor-element-58d2c591 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="58d2c591" data-element_type="widget" data-widget_type="divider.default">
                            <div class="elementor-widget-container">
                               <div class="elementor-divider">
@@ -682,16 +682,46 @@
                   </div>
                   <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-41295a63 elementor-invisible" data-id="41295a63" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-7b379053 elementor-widget elementor-widget-text-editor" data-id="7b379053" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-element elementor-element-7b379053 elementor-widget elementor-widget-text-editor" data-id="7b379053" data-element_type="widget" data-widget_type="text-editor.default" style="margin-bottom: 5px;">
                            <div class="elementor-widget-container">
                               <p><b>Wishes</b></p>
                            </div>
                         </div>
+                        <div class="elementor-element elementor-element-4e1007e5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4e1007e5" data-element_type="widget" data-widget_type="divider.default" style="margin-bottom: 5px;">
+                           <div class="elementor-widget-container">
+                              <div class="elementor-divider">
+                                 <span class="elementor-divider-separator">
+                                 </span>
+                              </div>
+                           </div>
+                        </div>
                         <div class="elementor-element elementor-element-4c1c0b5b ucapan-doa elementor-widget elementor-widget-text-editor" data-id="4c1c0b5b" data-element_type="widget" data-widget_type="text-editor.default">
                            <div class="elementor-widget-container">
-                              <p>Ucapan Dan Doa …..</p>
-                              <div class="row">
+                              <!--<p>Ucapan Dan Doa …..</p>-->
+                              <div class="row" id="comments">
                               </div>
+                           </div>
+                        </div>
+                        <div class="elementor-element elementor-element-6622fc81 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="6622fc81" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+                           <div class="elementor-widget-container">
+                              <form id="wishes-form">
+                                 <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required elementor-mark-required">                       
+                                    <label for="form-field-name2" class="elementor-field-label">Name</label>
+                                    <input name="Name2" size="1" type="text" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" id="form-field-name2" required>
+                                 </div>
+                                 <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required elementor-mark-required">
+                                       <label for="form-field-message" class="elementor-field-label">Message</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="Comment" id="form-field-message" rows="2" placeholder="Message" required="required" aria-required="true"></textarea>           
+                                 </div>
+                                 <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+                                    <button type="submit" class="elementor-button elementor-size-sm" id="submith">
+                                       <span>
+                                          <span class="elementor-button-icon"></span>
+                                          <span class="elementor-button-text">Send</span>
+                                       </span>
+                                    </button>
+                                 </div>
+                                <!--<button type="submit">Send</button>-->
+                              </form>
                            </div>
                         </div>
                      </div>
@@ -921,5 +951,61 @@
          });
 
       </script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+    
+      <script type="text/javascript">
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+          apiKey: "AIzaSyBfUaKIAYAhJBnZ1hfGIpgktWXSxRCuc8o",
+          authDomain: "farhah-and-mastaka-wedding.firebaseapp.com",
+          databaseURL: "https://farhah-and-mastaka-wedding-default-rtdb.asia-southeast1.firebasedatabase.app",
+          projectId: "farhah-and-mastaka-wedding",
+          storageBucket: "farhah-and-mastaka-wedding.appspot.com",
+          messagingSenderId: "365886559295",
+          appId: "1:365886559295:web:c34dd0c7d48398f6c5d48a",
+          measurementId: "G-CQ5FB58ZKZ"
+        };
+
+        // Initialize Firebase
+         firebase.initializeApp(firebaseConfig);
+
+         var database = firebase.database();
+
+         // Reference messages collection
+         var messagesRef = database.ref('wishesmessages');
+         $('#wishes-form').submit(function(e) {
+          e.preventDefault();
+       
+          var newMessageRef = messagesRef.push();
+          newMessageRef.set({
+              name: $('#form-field-name2').val(),
+              message: $('#form-field-message').val()
+          });
+       
+          alert("Thank you! Your comment has been submitted successfully!");
+       
+          $('#wishes-form')[0].reset();
+      });
+      </script>
+      <script type="text/javascript">
+         messagesRef.once('value').then((snapshot) => {
+             Object.keys(snapshot.val()).forEach((key) => {
+               $('#comments').append(
+                  $('<div>').prop({
+                     innerHTML: `<strong>${snapshot.val()[key].name}</strong>: ${snapshot.val()[key].message}`,
+                     className: 'border pad'
+                  })
+               );
+                /*$('<div />', {
+                'text': `${snapshot.val()[key].name}: ${snapshot.val()[key].message}` 
+                 }).appendTo('#comments');*/
+                 //console.log(`Name: ${snapshot.val()[key].name}`);
+                 //console.log(`Message: ${snapshot.val()[key].message}`);
+             });
+         });
+      </script>
+
    </body>
 </html>
